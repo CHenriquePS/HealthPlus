@@ -1,1 +1,3 @@
 # HealthPlus
+O desenvolvimento do HealthPlus foi realizado em Java, uma das linguagens mais amplamente suportadas pelo Android, pela sua robustez e flexibilidade. O Android Studio foi utilizado como ambiente de desenvolvimento, proporcionando uma integração direta com ferramentas nativas do Android, emuladores e suporte ao Firestore.
+O Gradle foi utilizado como ferramenta de build, sendo fundamental para o gerenciamento das dependências do projeto e para a automação do processo de compilação. Já o Firestore, serviço de banco de dados NoSQL do Firebase, foi escolhido para armazenar dados de forma estruturada e sincronizada em tempo real, garantindo uma experiência fluida para o usuário.
