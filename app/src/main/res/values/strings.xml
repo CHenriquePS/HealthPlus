@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">healthplus</string>
+    <string name="login">Login</string>
+    <string name="text_cadastro">Crie sua conta clicando aqui</string>
+    <string name="title_cadastro">Criar Conta</string>
+
+
+</resources>
